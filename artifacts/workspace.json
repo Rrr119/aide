@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid28709",
+  "B": "/home/dev/feedback/uid28709",
+  "sha": "06ff73fdbd8d3d93f192a2a4830e64fdb9fec208",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "aide",
+    "repo": "aide",
+    "sha": "06ff73fdbd8d3d93f192a2a4830e64fdb9fec208"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "aide",
+    "cloneUrl": "https://github.com/Rrr119/aide.git"
+  },
+  "at": "2026-11-20T03:33:15.887Z"
+}
